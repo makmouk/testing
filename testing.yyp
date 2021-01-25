@@ -2,11 +2,13 @@
   "resources": [
     {"id":{"name":"sound","path":"scripts/sound/sound.yy",},"order":1,},
     {"id":{"name":"obj_abs","path":"objects/obj_abs/obj_abs.yy",},"order":2,},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},"order":2,},
     {"id":{"name":"Room239","path":"rooms/Room239/Room239.yy",},"order":1,},
     {"id":{"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},"order":0,},
     {"id":{"name":"spr_himaka","path":"sprites/spr_himaka/spr_himaka.yy",},"order":1,},
     {"id":{"name":"obj_himaka","path":"objects/obj_himaka/obj_himaka.yy",},"order":1,},
     {"id":{"name":"Script","path":"scripts/Script/Script.yy",},"order":0,},
+    {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},"order":3,},
     {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
@@ -23,7 +25,10 @@
     "name": "Default",
     "children": [],
   },
-  "RoomOrder": [],
+  "RoomOrder": [
+    {"name":"Room3","path":"rooms/Room3/Room3.yy",},
+    {"name":"Room4","path":"rooms/Room4/Room4.yy",},
+  ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Tile Sets.yy","order":1,"resourceVersion":"1.0","name":"Tile Sets","tags":[],"resourceType":"GMFolder",},
