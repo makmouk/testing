@@ -27,10 +27,10 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Room239","path":"rooms/Room239/Room239.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
-    {"roomId":{"name":"Room239","path":"rooms/Room239/Room239.yy",},},
     {"roomId":{"name":"room55","path":"rooms/room55/room55.yy",},},
   ],
   "Folders": [
