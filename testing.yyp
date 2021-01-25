@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"sound","path":"scripts/sound/sound.yy",},"order":1,},
+    {"id":{"name":"room55","path":"rooms/room55/room55.yy",},"order":4,},
     {"id":{"name":"obj_abs","path":"objects/obj_abs/obj_abs.yy",},"order":2,},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},"order":2,},
     {"id":{"name":"Room239","path":"rooms/Room239/Room239.yy",},"order":1,},
@@ -25,9 +26,12 @@
     "name": "Default",
     "children": [],
   },
-  "RoomOrder": [
-    {"name":"Room3","path":"rooms/Room3/Room3.yy",},
-    {"name":"Room4","path":"rooms/Room4/Room4.yy",},
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
+    {"roomId":{"name":"Room239","path":"rooms/Room239/Room239.yy",},},
+    {"roomId":{"name":"room55","path":"rooms/room55/room55.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -46,16 +50,16 @@
     {"folderPath":"folders/Extensions.yy","order":12,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
-    {"targets":-1,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
   ],
   "TextureGroups": [
-    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"targets":-1,"resourceVersion":"1.0","name":"Default","resourceType":"GMTextureGroup",},
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.0.529",
+    "IDEVersion": "2.3.1.542",
   },
-  "resourceVersion": "1.3",
+  "resourceVersion": "1.4",
   "name": "testing",
   "tags": [],
   "resourceType": "GMProject",
